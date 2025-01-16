@@ -1,0 +1,41 @@
+body {
+    background-color: #FFF0F5;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.main.title {
+    font-size: 400%;
+}
+
+.main.list {
+    font-size: 250%;
+}
+
+.recipe{
+    font-size: 250%;
+}
+
+.home {
+    font-size: 150%;
+}
+
+.description,
+.ingredients,
+.steps {
+    font-weight: 800;
+
+}
+
+.recipe.list {
+    font-size: 120%;
+}
+
+.recipe-text {
+    font-size: 120%;
+}
+
+.pic {
+    height: 600px;
+    width: 650px;
+}
