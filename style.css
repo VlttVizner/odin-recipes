@@ -12,6 +12,23 @@ body {
     font-size: 250%;
 }
 
+.main li{
+    display: block;
+    box-sizing: border-box;
+    border: solid #9370DB;
+    margin: 15px auto;
+    padding: 20px;
+    width: 500px;
+}
+
+.main a:link, a:visited{
+    color: black;
+}
+
+.main a:hover{
+    color: #9370DB;
+}
+
 .recipe{
     font-size: 250%;
 }
